@@ -1,2 +1,2 @@
-# 5th_Sem
-This repository contains the project done on 5th sem computer engineering course
+#IWT_Lab_Assignment_1
+This repository is for my IWT Lab assignment 1
